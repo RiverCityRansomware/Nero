@@ -286,3 +286,16 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+src/.vscode/launch.json
+src/.vscode/tasks.json
+src/NeroCore/.vscode/launch.json
+src/NeroCore/.vscode/tasks.json
+src/NeroLib/users.db
+src/Nero.sln
+.vscode/launch.json
+.vscode/tasks.json
+src/NeroLib/Migrations/20180309223512_InitialCreate.cs
+src/NeroLib/Migrations/20180309223512_InitialCreate.Designer.cs
+*vscode
+*vscode/*
+NeroWeb
