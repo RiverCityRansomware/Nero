@@ -299,3 +299,5 @@ src/NeroLib/Migrations/20180309223512_InitialCreate.Designer.cs
 *vscode
 *vscode/*
 NeroWeb
+!NeroLib/Migrations
+!NeroLib/Migrations/*
